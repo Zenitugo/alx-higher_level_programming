@@ -1,2 +1,2 @@
 #!/bin/bash
-pythion3 export $PYCODE
+python3 <<< $PYCODE
