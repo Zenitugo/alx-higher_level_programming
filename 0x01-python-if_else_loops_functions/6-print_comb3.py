@@ -3,5 +3,4 @@ for i in range(0, 9):
     for j in range(i + 1, 10):
         if i == 9:
             break
-            print(f"{i}{j}" .format(i, j))
-            print("{:d}" .format(89), end= ", ")   
+            print(f"{i}{j}" .format(i, j), end= ", ")
