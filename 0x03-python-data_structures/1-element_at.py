@@ -7,4 +7,3 @@ def element_at(my_list, idx):
       return none
     else:
       return my_list(idx)
-    print("Element at index {:d} is { }". format(idx, element_at(my_list, idx))
