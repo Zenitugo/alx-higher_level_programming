@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def no_c(my_string):
   for char in my_string:
     if 'c' is in my_string:
